@@ -1,5 +1,6 @@
 # try
 
+  <!DOCTYPE HTML>
     <html class="❁" lang="ja">
     <head>
     <meta charset="utf-8">
