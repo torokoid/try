@@ -18,7 +18,7 @@
     
     <title>唯美-皐月恵版画展-</title>
         <meta name="Keywords" content="">
-        <meta name="description" content="https://artv-satsuki.net/#:~:text=%3D%22description%22%20content%3D%22-,%E7%BE%8E%E3%81%8C%E6%8B%93%E3%81%8F%E3%82%A2%E3%83%BC%E3%83%88%E3%81%AE%E6%96%B0%E4%B8%96%E7%95%8C%20/%20%E7%BE%8E%E3%81%A7%E4%BA%BA%E3%82%92%E6%83%B9%E3%81%8D%E3%81%A4%E3%81%91%E3%82%8B%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E7%9A%90%E6%9C%88%E6%81%B5%E5%B1%95%E9%96%8B%E5%82%AC,-%22%3E">
+        <meta name="description" content="美が拓くアートの新世界 / 美で人を惹きつけるアーティスト皐月恵展開催">
       <meta name="theme-color" content="#252525">
         <link rel="icon" href="favicon.ico">
         
@@ -127,7 +127,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </header>
 
         <section id="leadSec">
-           <!--  <div class="gold"><img src="img/goldenratioH.png"></div> -->
+           <!--  <div class="gold"><img src="https://artv-satsuki.net/img/goldenratioH.png"></div> -->
             <div class="lineVertical leadPartsTrigger"></div>
             <div class="squareMinT1 leadPartsTrigger"></div>
             <div class="squareMinT2 leadPartsTrigger"></div>
@@ -145,8 +145,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </section>
 
         <section id="firstSec">
-            <!-- <div class="gold"><img src="img/goldenratioH.png"></div> -->
-            <!-- <div class="three"><img src="img/threeslice.png"></div> -->
+            <!-- <div class="gold"><img src="https://artv-satsuki.net/img/goldenratioH.png"></div> -->
+            <!-- <div class="three"><img src="https://artv-satsuki.net/img/threeslice.png"></div> -->
             <div class="lineFirstSec01 firstSecPositionPartsTrigger"></div>
             <div class="lineFirstSec01L">
             <div class="h2Wrapper">
@@ -167,15 +167,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
             </aside>
             <div class="bgImg firstSecPositionPartsTrigger">
-                <figure class="bgMin"><img src="img/roses-and-drops.webp" alt=""></figure>
-                <figure class="bgMax"><img src="img/roses-with-thorn-and-butterfly.webp" alt=""></figure>
+                <figure class="bgMin"><img src="https://artv-satsuki.net/img/roses-and-drops.webp" alt=""></figure>
+                <figure class="bgMax"><img src="https://artv-satsuki.net/img/roses-with-thorn-and-butterfly.webp" alt=""></figure>
             </div>
             <div class="bgBlack firstSecPositionPartsTrigger"></div>
         </section>
 
         <section id="secondSec">
-            <!-- <div class="gold"><img src="img/goldenratio.png"></div> -->
-            <!-- <div class="three"><img src="img/threeslice.png"></div> -->
+            <!-- <div class="gold"><img src="https://artv-satsuki.net/img/goldenratio.png"></div> -->
+            <!-- <div class="three"><img src="https://artv-satsuki.net/img/threeslice.png"></div> -->
             <div class="lineFirstSec02 secondSecPositionPartsTrigger"></div>
             <div class="lineFirstSec02L">
             <div class="h2Wrapper">
@@ -197,15 +197,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
             </aside>
             <div class="bgImg secondSecPositionPartsTrigger">
-                <figure class="bgMin"><img src="img/roses-with-thorn-and-butterfly.webp" alt=""></figure>
-                <figure class="bgMax"><img src="img/roses-and-drops.webp" alt=""></figure>
+                <figure class="bgMin"><img src="https://artv-satsuki.net/img/roses-with-thorn-and-butterfly.webp" alt=""></figure>
+                <figure class="bgMax"><img src="https://artv-satsuki.net/img/roses-and-drops.webp" alt=""></figure>
             </div>
             <div class="bgBlack secondSecPositionPartsTrigger"></div>
         </section>
 
         <section id="thirdSec">
-            <!-- <div class="gold"><img src="img/goldenratio.png"></div> -->
-            <!-- <div class="three"><img src="img/threeslice.png"></div> -->
+            <!-- <div class="gold"><img src="https://artv-satsuki.net/img/goldenratio.png"></div> -->
+            <!-- <div class="three"><img src="https://artv-satsuki.net/img/threeslice.png"></div> -->
             <div class="lineFirstSec03 thirdSecPositionPartsTrigger"></div>
             <div class="lineFirstSec03L">
             <div class="h2Wrapper">
@@ -214,7 +214,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
             <p class="secLine01 thirdSecPositionPartsTrigger"></p><p class="secLine02 thirdSecPositionPartsTrigger"></p><p class="secLine03 thirdSecPositionPartsTrigger"></p></div>
             <figure class="thirdSecPositionPartsTrigger">
-                <img src="img/sougonkarei.webp" alt="荘厳華麗">
+                <img src="https://artv-satsuki.net/img/sougonkarei.webp" alt="荘厳華麗">
             </figure>
             <aside class="secDetail">
                 <h3 class="thirdSecPositionPartsTrigger">-荘厳華麗-</h3>
@@ -226,7 +226,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </p>
                 </div>
             </aside>
-            <div class="bgImg thirdSecPositionPartsTrigger"><figure><img src="img/roses-and-butterfly-min.webp" alt=""></figure></div>
+            <div class="bgImg thirdSecPositionPartsTrigger"><figure><img src="https://artv-satsuki.net/img/roses-and-butterfly-min.webp" alt=""></figure></div>
             <div class="bgBlack thirdSecPositionPartsTrigger"></div>
         </section>
         <section id="gaSec">
@@ -263,7 +263,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <div class="gaDeco02"></div>
                                 <div class="gaDeco03"></div>
                                 <div class="gaDeco04"></div>
-                                <img class="gaHeight" src="img/ga/g6.webp" alt="雪夜月の笛吹">
+                                <img class="gaHeight" src="https://artv-satsuki.net/img/ga/g6.webp" alt="雪夜月の笛吹">
                             </div> 
                             <figcaption data-swiper-parallax-x="-30%" data-swiper-parallax-opacity="0">雪夜月の笛吹</figcaption>
                         </figure>
@@ -275,7 +275,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <div class="gaDeco02"></div>
                                 <div class="gaDeco03"></div>
                                 <div class="gaDeco04"></div>
-                                <img class="gaHeight jb" src="img/ga/g4.webp" alt="永劫の庭">
+                                <img class="gaHeight jb" src="https://artv-satsuki.net/img/ga/g4.webp" alt="永劫の庭">
                             </div> 
                             <figcaption data-swiper-parallax-x="-30%" data-swiper-parallax-opacity="0">永劫の庭</figcaption>
                         </figure>
@@ -297,9 +297,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </section>
 
         <section id="noveltySec" class="noveltySecPositionPartsTrigger">
-            <!-- <div class="gold"><img src="img/goldenratio.png"></div> -->
+            <!-- <div class="gold"><img src="https://artv-satsuki.net/img/goldenratio.png"></div> -->
             <figure class="noveltySecPositionPartsTrigger">
-                <img class="noveltySecPositionPartsTrigger" src="img/novelty-img.webp" alt="唯美-皐月恵版画展-">
+                <img class="noveltySecPositionPartsTrigger" src="https://artv-satsuki.net/img/novelty-img.webp" alt="唯美-皐月恵版画展-">
                 <figcaption class="noveltySecPositionPartsTrigger">Web来場予約者限定特典</figcaption>
             </figure>
             <div class="noveltyInner">
