@@ -1,13 +1,12 @@
 # try
 
-<html>
-<!--
+
     <html class="❁" lang="ja">
     <head>
     <meta charset="utf-8">
     
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
--->
+<!--
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -15,7 +14,7 @@
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','dataLayer','GTM-52FV59JJ');</script>
     <!-- End Google Tag Manager -->
-    
+    -->
     <title>唯美-皐月恵版画展-</title>
         <meta name="Keywords" content="">
         <meta name="description" content="美が拓くアートの新世界 / 美で人を惹きつけるアーティスト皐月恵展開催">
