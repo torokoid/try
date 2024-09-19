@@ -23,11 +23,11 @@
         <link rel="icon" href="favicon.ico">
         
     <style>main{display:none}</style>
-    <link rel="preload" href="img/logo-parts-01.webp" as="image">
-    <link rel="preload" href="img/logo-parts-02.webp" as="image">
-    <link rel="preload" href="img/logo-parts-03.webp" as="image">
-    <link rel="stylesheet" href="style.css?v=11">
-    <link rel="stylesheet" href="reset.css?v=118720">
+    <link rel="preload" href="https://artv-satsuki.net/img/logo-parts-01.webp" as="image">
+    <link rel="preload" href="https://artv-satsuki.net/img/logo-parts-02.webp" as="image">
+    <link rel="preload" href="https://artv-satsuki.net/img/logo-parts-03.webp" as="image">
+    <link rel="stylesheet" href="https://artv-satsuki.net/style.css?v=11">
+    <link rel="stylesheet" href="https://artv-satsuki.net/reset.css?v=118720">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/yakuhanjp@3.4.1/dist/css/yakuhanjp.min.css">
 
@@ -89,9 +89,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <p class="percentTxt"></p>
     </div> -->
     <h1>
-        <span class="onBlur1"><img src="img/logo-parts-01.webp" alt=""></span>
-        <span class="onBlur2"><img src="img/logo-parts-02.webp" alt=""></span>
-        <span class="onOpacity1"><img src="img/logo-parts-03.webp" alt=""></span>
+        <span class="onBlur1"><img src="https://artv-satsuki.net/img/logo-parts-01.webp" alt=""></span>
+        <span class="onBlur2"><img src="https://artv-satsuki.net/img/logo-parts-02.webp" alt=""></span>
+        <span class="onOpacity1"><img src="https://artv-satsuki.net/img/logo-parts-03.webp" alt=""></span>
         <!-- <img src="img/yuibi-logo.svg" alt=""> --></h1>
 </div>
 
@@ -102,8 +102,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div id="wrapper" class="hidden">
 
         <header class="onActivePartsHeader">
-            <!-- <div class="gold"><img src="img/goldenratioH.png"></div> -->
-            <!-- <div class="three"><img src="img/threeslice.png"></div> -->
+            <!-- <div class="gold"><img src="https://artv-satsuki.net/img/goldenratioH.png"></div> -->
+            <!-- <div class="three"><img src="https://artv-satsuki.net/img/threeslice.png"></div> -->
 
             <div class="bgLineMax"></div>
 
@@ -111,10 +111,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
             <section class="bgLineWrapper">
                 <div class="headerLine">
-                    <div class="headerCornerL"><img src="img/corners.webp" alt=""></div>
-                    <div class="headerCornerR"><img src="img/corners-2.webp" alt=""></div>
+                    <div class="headerCornerL"><img src="https://artv-satsuki.net/img/corners.webp" alt=""></div>
+                    <div class="headerCornerR"><img src="https://artv-satsuki.net/img/corners-2.webp" alt=""></div>
                     <div class="h1Wrapper">
-                        <h1 class="heroPartsTrigger"><img src="img/yuibi-logo.svg" alt=""></h1>
+                        <h1 class="heroPartsTrigger"><img src="https://artv-satsuki.net/img/yuibi-logo.svg" alt=""></h1>
                         <small class="heroPartsTrigger">入場無料・絵画展示販売会</small>
                     </div>
                 </div>
