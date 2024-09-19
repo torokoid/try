@@ -121,7 +121,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </section>
 
             <picture>
-                <source media="(min-width:2001px)" srcset="img/kacyouhuugetsu.webp" type="image/avif">
+                <source media="(min-width:2001px)" srcset="https://artv-satsuki.net/img/kacyouhuugetsu.webp" type="image/avif">
                 <img src="img/kacyouhuugetsu.webp" alt="花鳥風月">
             </picture>
         </header>
