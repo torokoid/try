@@ -18,7 +18,7 @@
     
     <title>唯美-皐月恵版画展-</title>
         <meta name="Keywords" content="">
-        <meta name="description" content="美が拓くアートの新世界 / 美で人を惹きつけるアーティスト皐月恵展開催">
+        <meta name="description" content="https://artv-satsuki.net/#:~:text=%3D%22description%22%20content%3D%22-,%E7%BE%8E%E3%81%8C%E6%8B%93%E3%81%8F%E3%82%A2%E3%83%BC%E3%83%88%E3%81%AE%E6%96%B0%E4%B8%96%E7%95%8C%20/%20%E7%BE%8E%E3%81%A7%E4%BA%BA%E3%82%92%E6%83%B9%E3%81%8D%E3%81%A4%E3%81%91%E3%82%8B%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E7%9A%90%E6%9C%88%E6%81%B5%E5%B1%95%E9%96%8B%E5%82%AC,-%22%3E">
       <meta name="theme-color" content="#252525">
         <link rel="icon" href="favicon.ico">
         
