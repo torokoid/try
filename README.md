@@ -43,8 +43,7 @@
                 }
 
                 // カウント表示更新
-                updateCount(btnId);
-            });
+                updateCount(btnId);});
             
             function updateCount(btnId) {
                 
