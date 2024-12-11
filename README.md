@@ -8,11 +8,11 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
 <body>
-    <!-- いいねボタン -->
-    <button id="like-btn">いいね!</button>
+    <!-- いいねボタンとカウント表示 -->
+    <button id="like-btn">いいね!</button><div id="count-area"></div>
 
-    <!-- いいねカウント表示エリア -->
-    <div id="count-area"></div>
+    
+    
 
     <script>
         // IPアドレスの取得（実際のブラウザ環境では機能しないことに注意）
