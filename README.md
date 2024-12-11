@@ -9,21 +9,21 @@
 </head>
 <body>
     <!-- いいねボタン -->
-    <button id="like-btn">いいね!</button><br>
-    <button id="like-btn">いいね!</button><br>
-    <button id="like-btn">いいね!</button>
+    <button id="like-btn1">いいね!</button><br>
+    <button id="like-btn2">いいね!</button><br>
+    <button id="like-btn3">いいね!</button>
 
     <!-- いいね数カウント表示エリア -->
-    <div id="count-area" style="display: inline-block; margin-left: 5px;"></div>
-    <div id="count-area" style="display: inline-block; margin-left: 5px;"></div>
-    <div id="count-area" style="display: inline-block; margin-left: 5px;"></div>
+    <div id="count-area1" style="display: inline-block; margin-left: 5px;"></div>
+    <div id="count-area2" style="display: inline-block; margin-left: 5px;"></div>
+    <div id="count-area3" style="display: inline-block; margin-left: 5px;"></div>
     <script>
         // sessionStorageを使用していいね数を保存する
-        var countKey = 'likeCount';
+        var countKey = 'likeCount1';
         
         $(document).ready(function() {
             // いいねボタンをクリックしたときの処理
-            $('#like-btn').on('click', function() {
+            $('#like-btn1').on('click', function() {
                 // IPアドレスがすでにある場合、カウントアップする
                 if (sessionStorage.getItem(countKey)) {
                     var count = sessionStorage.getItem(countKey);
@@ -39,7 +39,7 @@
             
             function updateCount() {
                 var count = sessionStorage.getItem(countKey);
-                $('#count-area').text('いいね数:' + count);
+                $('#count-area1').text('いいね数:' + count);
             }
         });
     </script>
