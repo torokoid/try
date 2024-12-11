@@ -8,22 +8,23 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
 <body>
-    <!-- いいねボタンのセット -->
-    <?php for($i = 1; $i <= 10; $i++) { ?>
-        <div style="margin-bottom: 10px;">
-            <!-- いいねボタン -->
-            <button id="like-btn<?php echo $i ?>" class="like-btn">いいね!</button>
-
-            <!-- カウント数表示エリア -->
-            <span id="count-area<?php echo $i ?>" style="display: inline-block; margin-left: 5px;">いいね数:0</span>
-        </div>
-    <?php } ?>
+    <div id="button-container"></div>
 
     <script>
         // sessionStorageを使用していいね数を保存する
         var countKeys = [];
+        
         for(i = 1; i <= 10; i++) {
-            countKeys.push('count-btn-' + i);
+            // ボタンのidとカウントキーを作成する
+            var btnId = 'like-btn-' + i;
+            var countKey = 'count-btn-' + i;
+
+            // HTMLにボタンを追加する
+            $('#button-container').append('<div style="margin-bottom: 10px;"><button id="' + btnId + '" class="like-btn">いいね
+!</button><span id="count-area-' + i + '" style="display: inline-block; margin-left: 5px;">いいね数:0</span></div>');
+            
+            // sessionStorageにカウントキーを作成する
+            countKeys.push(countKey);
         }
         
         $(document).ready(function() {
@@ -59,6 +60,7 @@
     </script>
 </body>
 </html>
+
 
 
 
