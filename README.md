@@ -9,8 +9,8 @@
 </head>
 <body>
     <!-- いいねボタン -->
-    <button id="like-btn">いいね!</button>
-    <button id="like-btn">いいね!</button>
+    <button id="like-btn">いいね!</button><br>
+    <button id="like-btn">いいね!</button><br>
     <button id="like-btn">いいね!</button>
 
     <!-- いいね数カウント表示エリア -->
