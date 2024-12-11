@@ -13,7 +13,8 @@
 
     <!-- いいね数カウント表示エリア -->
     <div id="count-area" style="display: inline-block; margin-left: 5px;"></div>
-
+    <div id="count-area" style="display: inline-block; margin-left: 5px;"></div>
+    <div id="count-area" style="display: inline-block; margin-left: 5px;"></div>
     <script>
         // sessionStorageを使用していいね数を保存する
         var countKey = 'likeCount';
