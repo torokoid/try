@@ -8,23 +8,35 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
 <body>
-    <!-- いいねボタン -->
-    <button id="like-btn1">いいね!</button><br>
-    <button id="like-btn2">いいね!</button><br>
-    <button id="like-btn3">いいね!</button>
+    <!-- いいねボタンのセット -->
+    <div style="margin-bottom: 10px;">
+        <!-- いいねボタン -->
+        <button id="like-btn1" class="like-btn">いいね!</button>
 
-    <!-- いいね数カウント表示エリア -->
-    <div id="count-area1" style="display: inline-block; margin-left: 5px;"></div>
-    <div id="count-area2" style="display: inline-block; margin-left: 5px;"></div>
-    <div id="count-area3" style="display: inline-block; margin-left: 5px;"></div>
+        <!-- いいね数カウント表示エリア -->
+        <div id="count-area1" style="display: inline-block; margin-left: 5px;"></div>
+    </div>
+
+    <div style="margin-bottom: 10px;">
+        <!-- いいねボタン -->
+        <button id="like-btn2" class="like-btn">いいね!</button>
+
+        <!-- いいね数カウント表示エリア -->
+        <div id="count-area2" style="display: inline-block; margin-left: 5px;"></div>
+    </div>
+
     <script>
         // sessionStorageを使用していいね数を保存する
-        var countKey = 'likeCount1';
+        var countKey = 'likeCount';
         
         $(document).ready(function() {
             // いいねボタンをクリックしたときの処理
-            $('#like-btn1').on('click', function() {
-                // IPアドレスがすでにある場合、カウントアップする
+            $('.like-btn').on('click', function() {
+                // ボタンのidからカウントキーを作成する
+                var btnId = $(this).attr('id');
+                var countKey = 'count-' + btnId;
+                
+                // いいねボタンをクリックしたときの処理
                 if (sessionStorage.getItem(countKey)) {
                     var count = sessionStorage.getItem(countKey);
                     sessionStorage.setItem(countKey, parseInt(count) + 1);
@@ -34,17 +46,18 @@
                 }
                 
                 // カウント表示更新
-                updateCount();
+                updateCount(btnId);
             });
             
-            function updateCount() {
-                var count = sessionStorage.getItem(countKey);
-                $('#count-area1').text('いいね数:' + count);
+            function updateCount(btnId) {
+                var count = sessionStorage.getItem('count-' + btnId);
+                $('#' + 'count-area' + btnId).text('いいね数:' + count);
             }
         });
     </script>
 </body>
 </html>
+
 
 
 
