@@ -9,7 +9,10 @@
 </head>
 <body>
     <!-- いいねボタンとカウント表示 -->
-    <button id="like-btn">いいね!</button><div id="count-area"></div>
+    <button id="like-btn">いいね!</button>、id="count-area"
+
+    <!--
+    <button id="like-btn">いいね!</button><div id="count-area"></div>-->
 
     
     
