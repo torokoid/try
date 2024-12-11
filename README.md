@@ -20,7 +20,8 @@
             var countKey = 'count-btn-' + i;
 
             // HTMLにボタンを追加する
-            $('#button-container').append('<div style="margin-bottom: 10px;"><button id="' + btnId + '" class="like-btn">いいね!</button><span id="count-area-' + i +             '" style="display: inline-block; margin-left: 5px;">いいね数:0</span></div>');
+            $('#button-container').append('<div style="margin-bottom: 10px;"><button id="' + btnId + '" class="like-btn">いいね!</button><span 
+id="count-area-' + i +             '" style="display: inline-block; margin-left: 5px;">いいね数:0</span></div>');
             
             // sessionStorageにカウントキーを作成する
             countKeys.push(countKey);
@@ -45,18 +46,22 @@
                 // カウント表示更新
                 updateCount(btnId);});
             
-                function updateCount(btnId) {
+            function updateCount(btnId) {
+                
+                setTimeout(function() {
                 
                 var countKey = 'count-btn-' + btnId
                 
                 var count = sessionStorage.getItem(countKey);
                 
                 $('#' + btnId).next().text('いいね数:' + count);
+                }, 500);
             }
         });
     </script>
 </body>
 </html>
+
 
 
 
