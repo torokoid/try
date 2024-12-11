@@ -45,7 +45,7 @@
                 // カウント表示更新
                 updateCount(btnId);});
             
-            function updateCount(btnId) {
+                function updateCount(btnId) {
                 
                 var countKey = 'count-btn-' + btnId
                 
