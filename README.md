@@ -35,13 +35,12 @@
                 var countKey = 'count-btn-' + btnId;
                 
                 // いいねボタンをクリックしたときの処理
-                var count = sessionStorage.getItem(countKey);
-                if (!count) {
-                    count = 0;
+                if (!sessionStorage.getItem(countKey)) {
+                    sessionStorage.setItem(countKey, 1);
+                }else{
+                    var count = parseInt(sessionStorage.getItem(countKey)) + 1;
+                    sessionStorage.setItem(countKey, count.toString());
                 }
-                count = parseInt(count) + 1;
-
-                sessionStorage.setItem(countKey, count);
 
                 // カウント表示更新
                 updateCount(btnId);
@@ -59,6 +58,7 @@
     </script>
 </body>
 </html>
+
 
 
 
