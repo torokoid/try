@@ -46,7 +46,7 @@
                 // カウント表示更新
                 updateCount(btnId);});
             
-            function updateCount(btnId) {
+                function updateCount(btnId) {
                 
                 setTimeout(function() {
                 
