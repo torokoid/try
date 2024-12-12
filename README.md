@@ -1,31 +1,6 @@
 # try
 
-// script.js
-let count = 0;
-const likeBtn = document.getElementById('like-btn');
-const dislikeBtn = document.getElementById('dislike-btn');
 
-function like() {
-    count++;
-    console.log(`いいね!(${count}回)`);
-}
-
-function dislike() {
-    if (count >= 1) {
-        count--;
-        console.log(`ダメね!(${count}回残ります)`);
-    } else {
-        console.log("もうダメねを押したことはないみたいです")
-    }
-}
-
-likeBtn.addEventListener('click', () => {
-    like();
-});
-
-dislikeBtn.addEventListener('click', () => {
-    dislike();
-});
 
 <!-- index.html -->
 <!DOCTYPE html>
