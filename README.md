@@ -44,7 +44,7 @@
 
 <h2><p>情報発信が一方通行だったので、タイ関連のリンクにいいねボタンを付けてみました。<br>お気軽にクリックなどどうぞ！</p></h2>
 
-<h2><a href="mailto:torokoid@gmail.com?subject=件名">HPに関するご意見などはこちらをクリック</a></h2>
+<h2><a href="mailto:torokoid@gmail.com?subject=Mashiko_himawari_3から">HPに関するご意見などはこちらをクリック</a></h2>
 
 <!--
     <div class="like-container">-->
