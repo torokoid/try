@@ -45,50 +45,50 @@
 
 <h2><a href="mailto:torokoid@gmail.com?subject=件名">HPに関するご意見などはこちらをクリック</a></h2>
 
-
-//    <div class="like-container">
-        <!-- 10個のいいねボタン -->
-//        <div class="like-item">
-//            <button class="like-button">いいね</button>
-//            <span class="like-count">0</span>
-//        </div>
-//        <div class="like-item">
-//            <button class="like-button">いいね</button>
-//            <span class="like-count">0</span>
-//        </div>
-//       <div class="like-item">
-//            <button class="like-button">いいね</button>
-//            <span class="like-count">0</span>
-//        </div>
-//        <div class="like-item">
-//            <button class="like-button">いいね</button>
-//            <span class="like-count">0</span>
-//        </div>
-//        <div class="like-item">
-//            <button class="like-button">いいね</button>
-//            <span class="like-count">0</span>
-//        </div>
-//        <div class="like-item">
-//            <button class="like-button">いいね</button>
-//            <span class="like-count">0</span>
-//        </div>
-//        <div class="like-item">
-//            <button class="like-button">いいね</button>
-//            <span class="like-count">0</span>
-//        </div>
-//        <div class="like-item">
-//            <button class="like-button">いいね</button>
-//            <span class="like-count">0</span>
-//        </div>
-//        <div class="like-item">
-//            <button class="like-button">いいね</button>
-//            <span class="like-count">0</span>
-//        </div>
-//        <div class="like-item">
-//            <button class="like-button">いいね</button>
-//            <span class="like-count">0</span>
-//        </div>
-//    </div>
+<!--
+    <div class="like-container">-->
+        <!-- 10個のいいねボタン --> <!--
+        <div class="like-item">
+            <button class="like-button">いいね</button>
+            <span class="like-count">0</span>
+        </div>
+        <div class="like-item">
+            <button class="like-button">いいね</button>
+            <span class="like-count">0</span>
+        </div>
+       <div class="like-item">
+            <button class="like-button">いいね</button>
+            <span class="like-count">0</span>
+        </div>
+        <div class="like-item">
+            <button class="like-button">いいね</button>
+            <span class="like-count">0</span>
+        </div>
+        <div class="like-item">
+            <button class="like-button">いいね</button>
+            <span class="like-count">0</span>
+        </div>
+        <div class="like-item">
+            <button class="like-button">いいね</button>
+            <span class="like-count">0</span>
+        </div>
+        <div class="like-item">
+            <button class="like-button">いいね</button>
+            <span class="like-count">0</span>
+        </div>
+        <div class="like-item">
+            <button class="like-button">いいね</button>
+            <span class="like-count">0</span>
+        </div>
+        <div class="like-item">
+            <button class="like-button">いいね</button>
+            <span class="like-count">0</span>
+        </div>
+        <div class="like-item">
+            <button class="like-button">いいね</button>
+            <span class="like-count">0</span>
+        </div>
+    </div>-->
 
 
     <script>
