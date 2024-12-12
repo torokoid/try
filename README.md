@@ -93,14 +93,27 @@
 
 
     <script>
-        // JavaScriptでカウントを更新
-        document.querySelectorAll('.like-button').forEach((button, index) => {
+    document.addEventListener('DOMContentLoaded', () => {
+        const likeButtons = document.querySelectorAll('.like-button');
+        const counts = document.querySelectorAll('.like-count');
+        
+        // ローカルストレージからカウントを復元
+        const storedCounts = JSON.parse(localStorage.getItem('likeCounts')) || Array(likeButtons.length).fill(0);
+        storedCounts.forEach((count, index) => {
+            counts[index].textContent = count;
+        });
+
+        // ボタンクリック時のカウント更新と保存
+        likeButtons.forEach((button, index) => {
             button.addEventListener('click', () => {
-                const countSpan = button.nextElementSibling;
-                let count = parseInt(countSpan.textContent, 10);
-                countSpan.textContent = count + 1;
+                let count = parseInt(counts[index].textContent, 10);
+                count++;
+                counts[index].textContent = count;
+                storedCounts[index] = count;
+                localStorage.setItem('likeCounts', JSON.stringify(storedCounts));
             });
         });
+    });
     </script>
 </body>
 </html>
