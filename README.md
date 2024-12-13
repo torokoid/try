@@ -101,7 +101,7 @@
         authDomain: "iine-76635.firebaseapp.com",
         databaseURL: "https://iine-76635.firebaseio.com",
         projectId: "iine-76635",
-        storageBucket: "iine-76635.appspot.com",
+        storageBucket: "iine-76635.firebasestorage.app",
         messagingSenderId: "547516244877",
         appId: "1:547516244877:web:da260d23f79b78d90e53c4"
     };
